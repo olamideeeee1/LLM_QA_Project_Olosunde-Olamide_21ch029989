@@ -1,4 +1,5 @@
-NAME -
-MATRIC NUMBER - 
-LIVE URL - 
-GITHUB REPOSITORY - 
+NAME -OLOSUNDE OLAMIDE
+MATRIC NUMBER - 21CH029989
+LIVE URL - https://llm-qa-project-olosunde-olamide.onrender.com
+
+GITHUB REPOSITORY - https://github.com/olamideeeee1/LLM_QA_Project_Olosunde-Olamide_21ch029989
